@@ -1,0 +1,160 @@
+/* external style for button react component with css 
+.button{
+  background-color: hsl(200, 100%, 50%);
+  color: white;
+  padding: 10px 20px;
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+} */
+
+
+/*------------------------------------------------------------------------------*/
+
+
+/* Students
+.student{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 2em;
+  padding: 10px;
+  border: 1px solid black;
+}
+.student p{
+  margin: 0;
+} */
+
+
+/*------------------------------------------------------------------------------*/
+
+
+/*User-Greetings
+.welcome-msg{
+  font-size: 2.5rem;
+  background-color: hsl(108, 100%, 27%);
+  color:rgb(215, 210, 210);
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+
+}
+.log-prompt{
+
+  font-size: 2.5rem;
+  background-color: hsl(17, 100%, 40%);
+  color:rgb(215, 210, 210);
+  padding: 10px;
+  border-radius: 5px;
+  margin: 0;
+
+} */
+
+/*------------------------------------------------------------------------------*/
+
+/* List.jpx
+.list-category{
+  font-size: 2.5rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  color: brown;
+  margin-bottom: 10px;
+  border: 3px black solid;
+  text-align: center;
+  background-color: blanchedalmond;
+}
+
+.list-items{
+  font-size: 2rem;
+  list-style: none;
+  color: chocolate;
+  text-align: center;
+  margin: 0;
+}
+
+.list-items li:hover{
+  opacity: 0.5;
+  cursor: pointer;
+} */
+
+/*---------------------------------------------------------------------*/
+
+/* ---COUNTER--- 
+
+*{
+  background-color: darkslategray;
+}
+
+.counter-container{
+  text-align: center;
+  color: aliceblue;
+}
+
+.container{
+  font-size: 10rem;
+  margin-top: 0;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.button{
+  height: 50px;
+  width: 150px;
+  text-align: center;
+  border-radius: 20px;
+  padding: 10px;
+  background-color: goldenrod;
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.button:hover{
+  background-color: rgb(151, 110, 5);
+  cursor: pointer;
+} */
+
+
+
+/* 
+-----------------------COLOR PICKER----------------------------
+.color-picker-container{  
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.title{
+  margin: 50px;
+  font-size: 3rem;
+}
+
+.color-display{
+  width: 300px;
+  height: 300px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 5px solid black;
+  border-radius: 25px;
+  margin-bottom: 25px;
+  transition: .25s ease;
+}
+
+.color-display p{
+  color: black;
+  font-size: 2rem;
+  text-align: center;
+}
+
+label{
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+input [type='color']{
+  width: 75px;
+  height: 50px;
+  padding: 5px;
+  border-radius: 10px;
+  border: 3px solid black;
+} */
